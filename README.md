@@ -1,6 +1,9 @@
 # Google Data Analytics CaseStudy 1
 
-**Case Study: How Does a Bike-Share Company Navigate Speedy Success?**
+**Case Study: How Does a Bike-Share Company Navigate Speedy Success?🚴‍♂️**
+
+>_Publisher: Varun Srivatsa_  
+_Last Updated: 30th June 2022_
 
 I have taken this case study from the Google Data Analytics professional certificate on Coursera. In this case study, I work for a fictional company named **Cyclistic** which 
 is a bike sharing company. As a part of this case study, I will perform a lot of real-world tasks of a data analyst. 
